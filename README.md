@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+### Live @ https://react-random-user-fawn.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2022-03-06 231923](https://user-images.githubusercontent.com/81632171/156935366-a04d6a14-5a6c-4499-847b-231c1ce1d5d0.png)
+
 
 ## Available Scripts
 
